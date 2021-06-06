@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FreshComposeProject</string>
+    <string name="home">Home</string>
+    <string name="login">Login</string>
+    <string name="post">Post</string>
+    <string name="chat">Chat</string>
+    <string name="notifications">Notifications</string>
+    <string name="create_post">Create Post</string>
+</resources>
